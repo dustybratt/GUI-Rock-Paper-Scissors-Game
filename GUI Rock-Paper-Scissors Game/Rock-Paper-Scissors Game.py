@@ -65,7 +65,7 @@ user_select.current(0)
 user_select.pack()
 
 # Add Labels,Button
-wl_label = Label(root,text="",font=("arial",10),width=50,height=4)
+wl_label = Label(root,text="",font=("arial",17),width=50,height=4)
 wl_label.pack()
 
 button = Button(root,text="Spin!",font=("bell mt",10),command=spin)
