@@ -72,4 +72,4 @@ button = Button(root,text="Spin!",font=("bell mt",10),command=spin)
 button.pack()
 
 root.mainloop()
-.
+..
