@@ -138,3 +138,26 @@ main
     <script src="script.js"></script>
   </body>
 </html>
+@media screen and (min-width: 740px) {
+  .card {
+    width: 35rem;
+    padding: 0rem 5rem;
+  }
+
+  .sneaker img {
+    width: 20rem;
+  }
+
+  .circle {
+    width: 15rem;
+    height: 15rem;
+  }
+
+  .info h1 {
+    font-size: 3rem;
+  }
+
+  .info h3 {
+    font-size: 1.3rem;
+  }
+}.
