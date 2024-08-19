@@ -2,7 +2,18 @@
 from tkinter import *
 from tkinter import ttk
 from random import *
-
+ <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Exchange Rate Calculator</title>
+  </head>
+  <body>
+    <div class="wrapper">
+      <img
+        src="https://i.ibb.co/rvJd2XR/rate.png"
+        alt="Exchange Rate Calculator"
+        class="money-img"
 # Create Object
 root = Tk()
 
